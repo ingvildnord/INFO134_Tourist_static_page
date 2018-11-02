@@ -6,4 +6,4 @@ Is a static pretend tourist site for Bergen, Norway.
 - Was largely responsible for CSS styling and mobile-first responsive design.
 - Also worked on Javascript at actOnFavorite.js, marked "oppgave 8" and "oppgave 9".
 
-Site can be accessed at https://ingvildnord.github.io/
+Site can be accessed [here](https://ingvildnord.github.io/Example_touristpage/index.html)
